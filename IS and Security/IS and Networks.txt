@@ -1,0 +1,34 @@
+IS and Networks
+
+packet sniffing
+Prosit 3&4 - encryption
+5 nines
+fmeca
+risk analysis
+adkar
+change management
+KPIs
+smart method - measurable
+6Rs
+
+how can we secure the networks
+NAT path
+
+27.11.24
+-> hashing is different than encryption
+-> importance of integrity in CIA triad
+-> you use hashing in integrity 
+-> type of hashing = MD5
+-> RAID systems = technique to have redundant servers for backup and recovery
+-> Syn attack = synchronous message sender and asynchronous message receiver
+-> Port mirroring (in IDS)
+-> directory traversal attack
+
+For the workshop:
+-> Active Directory (fundamentals)
+-> GPO
+-> AAA [authorisation, authentication, accounting]
+-> symmetric and asymmetric encryption + certificates and signatures
+
+29.11.24
+-> DAC vs RBAC vs MAC
