@@ -1,0 +1,13 @@
+Check out Workshop 2
+-> helps with finding good parameters [use random and then scikit gives the best params]
+-> use pandas to read feature points and attributes
+-> look at pipelining
+-> saving/loading a model [joblib]
+-> Stratified Shuffle Split - shuffles the dataset automatically and then splits it
+-> Models used - Linear Regression, Decision Tree Regressor, Random Forest Regressor, Support Vector Regression (with linear kernel)
+-> Performance Measurements - RMSE, MAE
+-> cross validation
+
+Workshop 1
+-> use correlation matrix
+-> one hot encoded
