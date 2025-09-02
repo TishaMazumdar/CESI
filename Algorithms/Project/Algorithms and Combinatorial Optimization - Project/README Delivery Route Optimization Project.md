@@ -23,4 +23,5 @@ This notebook contains:
 
 4. Comparison-Cities.xlsx
 - Data Compilation: Includes minimum travel time, number of cities, and optimal start hour (highlighted in yellow) for both GA and ACO.
+
 - Charts for Comparison: Visual charts to facilitate a quick understanding of how GA and ACO perform against PuLP for different scenarios.
